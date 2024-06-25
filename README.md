@@ -61,3 +61,7 @@
  
 - Site:
   - [Endangered Languages](https://www.endangeredlanguages.com/lang/region)
+ 
+### Japan Housing
+- [大島てる](https://www.oshimaland.co.jp/)
+- [ハザードマップポータルサイト](https://disaportal.gsi.go.jp/)
