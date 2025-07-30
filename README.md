@@ -62,6 +62,9 @@
 - Site:
   - [Endangered Languages](https://www.endangeredlanguages.com/lang/region)
  
+- App Development:
+  - [Ari Feldman - widgetworx.com](https://widgetworx.com)
+ 
 ### Japan Housing
 - [大島てる](https://www.oshimaland.co.jp/)
 - [ハザードマップポータルサイト](https://disaportal.gsi.go.jp/)
