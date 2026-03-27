@@ -3,7 +3,7 @@
 ### Job
 
 - Japan IT:
-  - [Japan Dev: 2022 Software Developer Salaries in Japan](https://japan-dev.com/blog/software-developer-salaries-in-japan-the-ultimate-guide)
+  - [Japan Dev: 2025 Software Developer Salaries in Japan](https://japan-dev.com/blog/software-developer-salaries-in-japan-the-ultimate-guide)
   - [opensalary.jp](https://opensalary.jp/en/): Japan software salaries
 
 - World Remote Job:
