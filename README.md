@@ -10,6 +10,8 @@
   - [remoteintech/remote-jobs](https://github.com/remoteintech/remote-jobs)
 
 ### Tech
+- AI:
+  - [mattpocock/skills](https://github.com/mattpocock/skills) 
 - CSS:
   - [loader/spinner: i-made-100-css-loaders](https://dev.to/afif/i-made-100-css-loaders-for-your-next-project-4eje)
 
