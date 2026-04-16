@@ -11,7 +11,7 @@
 
 ### Tech
 - AI:
-  - [mattpocock/skills](https://github.com/mattpocock/skills) 
+  - [mattpocock/skills](https://github.com/mattpocock/skills) : https://www.aihero.dev/5-agent-skills-i-use-every-day
 - CSS:
   - [loader/spinner: i-made-100-css-loaders](https://dev.to/afif/i-made-100-css-loaders-for-your-next-project-4eje)
 
