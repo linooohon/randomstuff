@@ -13,6 +13,8 @@
 - AI:
   - [mattpocock/skills](https://github.com/mattpocock/skills) : https://www.aihero.dev/5-agent-skills-i-use-every-day
   - https://lobehub.com/ja/skills/wiggitywhitney-commit-story-prd-create
+  - https://github.com/github/spec-kit
+
 - CSS:
   - [loader/spinner: i-made-100-css-loaders](https://dev.to/afif/i-made-100-css-loaders-for-your-next-project-4eje)
 
